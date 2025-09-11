@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1757360061,
+	"version": 1757610045,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,8 @@
 		"images/bggameover-sheet0.png",
 		"images/btnn-sheet0.png",
 		"images/bghomenext-sheet0.png",
+		"media/always-with-me-flute-spirited-aw.m4a",
+		"media/always-with-me-flute-spirited-aw.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

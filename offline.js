@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1757610045,
+	"version": 1758567912,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,8 +15,16 @@
 		"images/bggameover-sheet0.png",
 		"images/btnn-sheet0.png",
 		"images/bghomenext-sheet0.png",
+		"images/hero-sheet0.png",
+		"images/hero-sheet1.png",
+		"images/hero-sheet2.png",
+		"images/zoombie-sheet0.png",
+		"images/zoombie-sheet1.png",
+		"images/bullet-sheet0.png",
 		"media/always-with-me-flute-spirited-aw.m4a",
 		"media/always-with-me-flute-spirited-aw.ogg",
+		"media/ssvid.net-science-mysteries.m4a",
+		"media/ssvid.net-science-mysteries.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

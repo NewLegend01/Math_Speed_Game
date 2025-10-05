@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1759165518,
+	"version": 1759688023,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,6 +20,7 @@
 		"images/hero-sheet2.png",
 		"images/zoombie-sheet0.png",
 		"images/zoombie-sheet1.png",
+		"images/zoombie-sheet2.png",
 		"images/bullet-sheet0.png",
 		"media/always-with-me-flute-spirited-aw.m4a",
 		"media/always-with-me-flute-spirited-aw.ogg",

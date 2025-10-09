@@ -1,9 +1,9 @@
 ﻿{
-	"version": 1759688023,
+	"version": 1760036145,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
-		"jquery-2.1.1.min.js",
+		"jquery-3.4.1.min.js",
 		"offlineClient.js",
 		"images/bghome-sheet0.png",
 		"images/bgmn-sheet0.png",
@@ -22,6 +22,9 @@
 		"images/zoombie-sheet1.png",
 		"images/zoombie-sheet2.png",
 		"images/bullet-sheet0.png",
+		"images/hb-sheet0.png",
+		"images/hbd-sheet0.png",
+		"images/bullet2-sheet0.png",
 		"media/always-with-me-flute-spirited-aw.m4a",
 		"media/always-with-me-flute-spirited-aw.ogg",
 		"media/ssvid.net-science-mysteries.m4a",
